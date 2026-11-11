@@ -20,7 +20,7 @@ Agent skills that plan European trips the way a seasoned budget traveller would.
 
 ## 💼 Job search
 
-📋 [**Job Tracker**](https://github.com/JialiNong/job_tracker) - My job-search assistant: collects listings from job boards, public job APIs and 80 company ATS boards, scores each one against my profile with AI, sends matches to Telegram, and tracks every application in a web dashboard
+📋 [**Job Tracker**](https://github.com/JialiNong/job_tracker) - My job-search assistant: collects listings from public job APIs and 80 company ATS boards, scores each one against my profile with AI, sends matches to Telegram, and tracks every application in a web dashboard
 
 ---
 

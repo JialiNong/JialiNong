@@ -20,7 +20,7 @@
 
 ## 💼 求职
 
-📋 [**Job Tracker**](https://github.com/JialiNong/job_tracker) - 我的求职助手：从招聘网站、公开的招聘 API 和 80 家公司的 ATS 招聘页收集岗位，用 AI 按我的背景打分，把匹配的岗位推送到 Telegram，并在网页看板里跟踪每一份申请
+📋 [**Job Tracker**](https://github.com/JialiNong/job_tracker) - 我的求职助手：从公开的招聘 API 和 80 家公司的 ATS 招聘页收集岗位，用 AI 按我的背景打分，把匹配的岗位推送到 Telegram，并在网页看板里跟踪每一份申请
 
 ---
 
